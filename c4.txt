@@ -1,1 +1,2 @@
 -Implementacao de configuração de email
+-Criar gerador de emails
